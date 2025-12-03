@@ -1,9 +1,6 @@
 {
-  // Version of the setting file.  Always 0.2
   "version": "0.2",
-  // language - current active spelling language
   "language": "en",
-  // words - list of words to be always considered correct
   "words": [
     "CCLA",
     "CODEOWNER",
@@ -11,7 +8,6 @@
     "DATEDIFF",
     "DSRC",
     "EKEY",
-    "erpm",
     "FILLFACTOR",
     "FTYPE",
     "GETDATE",
@@ -20,12 +16,14 @@
     "OKEY",
     "PAGELATCH",
     "RKEY",
-    "Senzing",
     "SKEY",
+    "Senzing",
+    "UTYPE",
+    "erpm",
+    "esbenp",
     "sqltext",
     "stackoverflow",
     "timegroup",
-    "UTYPE",
     "varchar"
   ],
   "ignorePaths": [
