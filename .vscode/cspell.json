@@ -4,29 +4,29 @@
   "words": [
     "CCLA",
     "CODEOWNER",
+    "cooldown",
     "DATEADD",
     "DATEDIFF",
     "DSRC",
     "EKEY",
+    "erpm",
+    "esbenp",
     "FILLFACTOR",
     "FTYPE",
     "GETDATE",
     "ICLA",
+    "kernelsam",
     "LKEY",
     "OKEY",
     "PAGELATCH",
     "RKEY",
-    "SKEY",
     "Senzing",
-    "UTYPE",
-    "erpm",
-    "esbenp",
+    "SKEY",
     "sqltext",
     "stackoverflow",
     "timegroup",
+    "UTYPE",
     "varchar"
   ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+  "ignorePaths": [".git/**"]
 }
