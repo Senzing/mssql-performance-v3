@@ -10,7 +10,6 @@
     "DSRC",
     "EKEY",
     "erpm",
-    "esbenp",
     "FILLFACTOR",
     "FTYPE",
     "GETDATE",
@@ -28,5 +27,7 @@
     "UTYPE",
     "varchar"
   ],
-  "ignorePaths": [".git/**"]
+  "ignorePaths": [
+    ".git/**"
+  ]
 }
